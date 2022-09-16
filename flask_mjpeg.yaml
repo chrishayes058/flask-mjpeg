@@ -1,0 +1,7 @@
+plugin_type: "flask_mjpeg"
+announcement_url: "10.1.15.235"
+announce_connection: 50050
+liveview_url: "127.0.0.1"
+liveview_port: "5000"
+device_ids:  # For Flask, only ONE device_id
+  - 'test.device.id'
